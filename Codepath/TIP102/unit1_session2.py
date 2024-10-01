@@ -198,3 +198,4 @@ A pair (i, j) is called good if pile1[i] is divisible by pile2[j] * k. Assume 0 
 # ka = 3
 # print(good_pairs(pile1, pile2, k))
 # print(good_pairs(pile1a, pile2a, ka))
+
